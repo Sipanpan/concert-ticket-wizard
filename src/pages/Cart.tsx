@@ -179,4 +179,4 @@ const CartPage = () => {
   );
 };
 
-export default Cart;
+export default CartPage;
